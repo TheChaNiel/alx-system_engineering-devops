@@ -1,2 +1,2 @@
 #!/bin/bash
-su betty
+who_am_i
