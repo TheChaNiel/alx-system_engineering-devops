@@ -1,1 +1,1 @@
-Create a script that switches the current user to the user
+Create a script that creates a directory named my_first_directory in the /tmp/ directory
