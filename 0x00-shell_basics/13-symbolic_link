@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s /bin/ls __(two underscores)ls__(two underscores)
+ls -s/bin/ls --ls--
